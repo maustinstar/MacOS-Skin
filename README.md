@@ -1,6 +1,8 @@
 # MacOS Skin
 Custom icon sets for MacOS Apps.
 
+![Mac OS Skins](Preview.png)
+
 # Using Custom Icons
 
 _Warning: Disabling [System Integrity Protection (SIP)](https://support.apple.com/en-us/HT204899) is required to use skins on pre-installed Apps_
