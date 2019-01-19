@@ -27,6 +27,13 @@ _Warning: You will not have access to these instructions while disabling SIP. Wr
 2. Paste the icon in the application:
     - Finder > Applications > _Your Target_ > Right Click > Get Info... > Preview; select top left thumbnail and paste (⌘V)
 
+## Refreshing the Dock
+
+If your new icons are not displayed in the dock, open terminal:
+
+run 'killAll Dock'
+
+
 ## Enabling SIP
 
 _Warning: You will not have access to these instructions while enabling SIP. Write them down, or open on another device._
