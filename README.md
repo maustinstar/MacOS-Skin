@@ -56,4 +56,4 @@ _Warning: You will not have access to these instructions while enabling SIP. Wri
 
 * [**Michael Verges**](https://github.com/maustinstar) - *Initial icon designs* - mverges3@gatech.edu
 
-* **Nguyen Troung** - *Color Folders* - truongtringuyen.plus@gmail.com
+* **Nguyen Truong** - *Color Folders* - truongtringuyen.plus@gmail.com
