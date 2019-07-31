@@ -51,3 +51,9 @@ _Warning: You will not have access to these instructions while enabling SIP. Wri
 3. In the toolbar: Utilities > Terminal
 4. run `csrutil enable`
 5. Restart your Mac.  > Restart...
+
+## Authors
+
+* [**Michael Verges**](https://github.com/maustinstar) - *Initial icon designs* - mverges3@gatech.edu
+
+* **Nguyen Troung** - *Color Folders* - truongtringuyen.plus@gmail.com
